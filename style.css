@@ -1,0 +1,158 @@
+
+x-sizing: border-box;
+}
+
+body {
+  padding-top: 35px;
+  color: #888;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 38px;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+h5 {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+p {
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+ul,
+li {
+  margin: 0;
+}
+
+.nopadding {
+  padding: 0;
+}
+
+.nomargin {
+  margin: 0;
+}
+
+.section-title {
+  padding-bottom: 30px;
+}
+
+#hero {
+  min-height: 620px;
+}
+
+#hero h1 {
+  color: #fff;
+}
+
+#hero h5 {
+  margin: 20px 0;
+}
+
+.intro {
+  background-color: #3598DB;
+  height: 620px;
+  color: #333;
+}
+
+.details {
+  padding: 8% 10%;
+}
+
+#social-media {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.social {
+  padding: 6.5% 5%;
+  text-align: center;
+}
+
+.social a {
+  color: #FFF;
+}
+
+.c1 {
+  background: #4da8e6;
+}
+
+.c2 {
+  background: #2e98df;
+}
+
+.c3 {
+  background: #1b8bd7;
+}
+
+.c4 {
+  background: #1187D9;
+}
+
+.c5 {
+  background: #0D80D1;
+}
+
+.c6 {
+  background: #0C7AC7;
+}
+
+#bio {
+  padding: 100px 0 50px;
+}
+
+.bio-wrapper {
+  padding: 0 50px 50px;
+}
+
+ul.about-me li {
+  display: block;
+  margin: 40px 0;
+  text-transform: uppercase;
+}
+
+ul.about-me li:before {
+  content: " ";
+  width: 45px;
+  height: 45px;
+  padding: 0px 8px;
+  background-color: #3598db;
+  background-repeat: repeat;
+  margin-right: 30px;
+}
+
+#skills {
+  padding-bottom: 50px;
+}
+
+#skills h3 {
+  text-align: center;
+}
+
+.skill-logo {
+  text-align: center;
+}
+
+.icon-medium {
+  font-size: 3em;
+}
+
+.school {
+  padding: 0 20px;
+  border-left: 4px solid #3598db;
+}
+
+.course-details {
+  padding: 0 20px;
+}
